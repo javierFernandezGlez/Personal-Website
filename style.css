@@ -190,6 +190,12 @@
     margin-top: 5%;
 }
 
+.contact-aux {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 @media (min-width: 768px) {
 
     .first-three-logos {
